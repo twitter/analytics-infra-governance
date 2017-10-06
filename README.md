@@ -21,7 +21,7 @@ The Scalding family of projects can be broken coarsely into two tiers:
 ## Contributing and Committership
 
 It is not necessary to become a committer in order to contribute to the Analytics Infrastructure OSS Ecosystem. Anyone is welcome to contribute to Twitter's OSS projects, and pull requests and bug reports are greatly appreciated.
-We ask that contributors follow [Twitter's Open Source Code of Conduct](https://engineering.twitter.com/opensource/code-of-conduct). Additionally, see the [Typelevel Code of Conduct](http://typelevel.org/conduct) for specific examples of harassing behavior that are not tolerated.
+We ask that contributors follow [Twitter's Open Source Code of Conduct](https://github.com/twitter/code-of-conduct/blob/master/code-of-conduct.md). Additionally, see the [Typelevel Code of Conduct](http://typelevel.org/conduct) for specific examples of harassing behavior that are not tolerated.
 
 In addition to contributing, anyone can become a committer. The role of committer is not purely a technical one, it is also a project stewardship and maintenance role. Of course, anyone is welcome to contribute to the project without becoming a committer - you only need to be a committer if you want to play a leadership or stewardship role within the project. Only committers can merge pull requests, because only committers have write access to the repositories.
 
